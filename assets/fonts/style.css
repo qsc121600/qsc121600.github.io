@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'SoukouMincho';
+   src: url('SoukouMincho/font.ttf');
+}
+@font-face {
+   font-family: 'GenWanMinTW-Medium';
+   src: url('GenWanMinTW-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoGothicTW-Bold';
+   src: url('GenYoGothicTW-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'fontawesome-webfont';
+   src: url('fontawesome-webfont/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoGothicTW-ExtraLight';
+   src: url('GenYoGothicTW-ExtraLight/font.ttf');
+}
